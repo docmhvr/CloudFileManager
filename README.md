@@ -61,12 +61,12 @@ cd ../backend
 cdk bootstrap
 cdk deploy
 ```
-
+### Project Architecture
 ![Cloud File Manager Architecture](pics/final2.png)
 
 ### Few Images of the Project Architecture developed by AI
-
+#### By PartRock app built on AWS Bedrock
 ![PartyRock](pics/partyrock.png)
-
+#### By ChatGPT
 ![ChatGPT](pics/chatgpt.webp)
 
