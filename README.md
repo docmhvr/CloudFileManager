@@ -14,6 +14,7 @@ A full-stack application to manage file uploads and text inputs, with a React fr
 - **Infrastructure**: Managed using AWS CDK
 
 ## Final Application
+![Screenshot](pics/ui.jpg)
 
 The application is hosted at: [Cloud File Manager](https://main.dgqjfnss9vm07.amplifyapp.com/)
 
