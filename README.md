@@ -66,7 +66,7 @@ cdk deploy
 
 ### Few Images of the Project Architecture developed by AI
 
-![PartyRock](pics/final2.png)
+![PartyRock](pics/partyrock.png)
 
-![ChatGPT](pics/final2.png)
+![ChatGPT](pics/chatgpt.webp)
 
