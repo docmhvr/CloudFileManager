@@ -2,6 +2,8 @@
 
 A full-stack application to manage file uploads and text inputs, with a React frontend hosted on AWS Amplify and a backend comprising API Gateway, Lambda, DynamoDB, and S3, deployed using AWS CDK.
 
+React Frontend code of the project hosted on AWS Amplify CI/CD Github : [CloudFileManager-UI](https://github.com/docmhvr/CloudFileManager-UI)
+
 ## Project Overview
 ![Cloud File Manager](pics/final.jpg)
 
